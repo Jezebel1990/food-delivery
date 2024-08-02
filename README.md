@@ -1,4 +1,6 @@
-# Welcome to your Expo app 👋
+# Welcome to Dev Food 👋
+
+![cel](https://github.com/user-attachments/assets/51a027c9-2702-40d8-8b0f-284681968f24)
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
