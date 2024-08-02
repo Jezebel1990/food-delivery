@@ -1,6 +1,11 @@
 # Welcome to Dev Food 👋
 ![food](https://github.com/user-attachments/assets/8c721523-4561-4819-8764-5c5396002a1c)
 
+![e9917f22-ac42-48a4-b2bb-de0f1f2a0065](https://github.com/user-attachments/assets/f88420bf-9f3b-41e5-a375-15754f439d5a)
+![2f047cf3-4eb5-43f6-bd10-468991f28615](https://github.com/user-attachments/assets/74f711d2-01e2-4e21-aa91-72cdbe8deffe)
+![ab12d16d-18e3-4e5a-9c04-d9d64f7f1ebb](https://github.com/user-attachments/assets/b16aba30-4414-4383-ac32-19f66ef905f4)
+
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
